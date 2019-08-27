@@ -4,7 +4,7 @@
 		module="scalaapplication$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20190820154929"
+		publication="20190826145246"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
